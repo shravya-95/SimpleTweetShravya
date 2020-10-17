@@ -85,7 +85,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="Part-1.gif" width=250><br>
 **Pull to refresh**
-<img src="pull_to_refersh.gif" width=250><br>
+<img src="pull_to_refresh.gif" width=250><br>
 ## Notes
 
 Describe any challenges encountered while building the app.
